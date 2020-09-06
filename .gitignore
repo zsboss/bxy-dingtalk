@@ -1,0 +1,8 @@
+/vendor/
+composer.lock
+*.cache
+*.log
+.github
+.phpstorm.meta.php
+.travis.yml
+.idea/
