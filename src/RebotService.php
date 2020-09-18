@@ -37,8 +37,8 @@
             return $this->send($data);
         }
         /**
-         * @desc   发送link类型数据
-         * @author limx
+         * 
+         * @author boss
          * @param array $link
          * @return \Psr\Http\Message\ResponseInterface
          */
@@ -57,8 +57,8 @@
             return $this->send($data);
         }
         /**
-         * @desc   发送Markdown消息
-         * @author limx
+         *   发送Markdown消息
+         * @author boss
          * @param string $title
          * @param string $text
          * @param array  $at
